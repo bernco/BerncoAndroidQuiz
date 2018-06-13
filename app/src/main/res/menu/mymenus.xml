@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_share"
+        android:actionLayout="@layout/activity_main"
+        android:title="@string/menu1" />
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/menu2" />
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/menu3" />
+</menu>
